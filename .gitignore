@@ -1,0 +1,7 @@
+/dist/
+/subexposure
+/subexposure.exe
+/reports/
+*.test
+coverage.out
+.env
